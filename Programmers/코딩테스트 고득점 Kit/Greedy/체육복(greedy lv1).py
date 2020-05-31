@@ -46,7 +46,6 @@ def solution(n, lost, reserve):
 
 
 #풀이 3 -성공(솔루션 참고)
-
 def solution(n, lost, reserve):
     answer = n
 
