@@ -1,6 +1,6 @@
 # PS
 
-Solved List
+Solved List (Programmers)
 
 ## 코딩테스트 고득점 Kit 
 ### Hash
@@ -18,7 +18,7 @@ Solved List
 
 ### Brute Force
 - [카펫 (lv2)](Programmers/코딩테스트%20고득점%20Kit/BF/카펫(BF%20lv2).py)
-- [숫자 야구 (lv2)](Programmers/코딩테스트%20고득점%20Kit/BF/숫자%20야구(BF%20lv2).py)
+- [숫자 야구 (lv2)](Programmers/코딩테스트%20고득점%20Kit/BF/숫자%20야구(lv2).py)
 
 ### Greedy
 - [큰 수 만들기 (lv2)](Programmers/코딩테스트%20고득점%20Kit/Greedy/큰%20수%20만들기(greedy%20lv2).py)
@@ -28,3 +28,10 @@ Solved List
 
 ### Binary Search
 - [예산 (lv3)](Programmers/코딩테스트%20고득점%20Kit/BinarySearch/예산(이진탐색%20lv3).js)
+
+## 모든 문제
+### Lv.1
+- [가운데 글자 가져오기](Programmers/Lv1/가운데-글자-가져오기.py)
+- [수박수박수박수박수박수?](Programmers/Lv1/수박수박수박수박수박수.py)
+- [소수 찾기](Programmers/Lv1/소수-찾기.py)
+
