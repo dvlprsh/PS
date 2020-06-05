@@ -29,6 +29,9 @@ Solved List (Programmers)
 - [섬 연결하기 (lv3)](Programmers/코딩테스트%20고득점%20Kit/Greedy/섬%20연결하기(greedy%20lv3).py)
 - [단속카메라 (lv3)](Programmers/코딩테스트%20고득점%20Kit/Greedy/단속카메라(greedy%20lv3).py)
 
+### Dynamic Programming
+- [정수 삼각형 (lv3)](Programmers/코딩테스트%20고득점%20Kit/DP/정수%20삼각형(lv3).py)
+
 ### DFS/BFS
 - [네트워크 (lv3)](Programmers/코딩테스트%20고득점%20Kit/DFS-BFS/네트워크(lv3).py)
 - [단어 변환 (lv3)](Programmers/코딩테스트%20고득점%20Kit/DFS-BFS/단어%20변환(lv3).py)
