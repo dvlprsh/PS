@@ -31,6 +31,7 @@ Solved List (Programmers)
 
 ### Dynamic Programming
 - [정수 삼각형 (lv3)](Programmers/코딩테스트%20고득점%20Kit/DP/정수%20삼각형(lv3).py)
+- [N으로 표현 (lv3)](Programmers/코딩테스트%20고득점%20Kit/DP/N으로%20표현(lv3).py)
 
 ### DFS/BFS
 - [네트워크 (lv3)](Programmers/코딩테스트%20고득점%20Kit/DFS-BFS/네트워크(lv3).py)
