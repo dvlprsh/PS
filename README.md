@@ -49,5 +49,6 @@ Solved List (Programmers)
 - [튜플](Programmers/Lv2/튜플.py)
 - [프렌즈4블록](Programmers/Lv2/프렌즈4블록.py)
 - [캐시](Programmers/Lv2/캐시.py)
+- [방금그곡](Programmers/Lv2/방금그곡.py)
 ### Lv.3
 - [셔틀버스](Programmers/Lv3/셔틀버스.py)
