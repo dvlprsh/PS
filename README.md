@@ -51,6 +51,7 @@ Solved List (Programmers)
 - [캐시](Programmers/Lv2/캐시.py)
 - [방금그곡](Programmers/Lv2/방금그곡.py)
 - [다트 게임](Programmers/Lv2/다트%20게임.py)
+- [비밀지도](Programmers/Lv2/비밀지도.py)
 ### Lv.3
 - [셔틀버스](Programmers/Lv3/셔틀버스.py)
 ### Lv.4
