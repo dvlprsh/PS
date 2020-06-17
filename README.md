@@ -54,6 +54,7 @@ Solved List (Programmers)
 - [비밀지도](Programmers/Lv2/비밀지도.py)
 - [파일명 정렬](Programmers/Lv2/파일명%20정렬.py)
 - [n진수 게임](Programmers/Lv2/n진수%20게임.py)
+- [압축](Programmers/Lv2/압축.py)
 ### Lv.3
 - [셔틀버스](Programmers/Lv3/셔틀버스.py)
 ### Lv.4
