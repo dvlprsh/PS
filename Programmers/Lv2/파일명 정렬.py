@@ -5,7 +5,6 @@ def solution(files):
     # _files = [[파일명, head, number]]
     _files = []
     pattern = r"([0-9])+"
-    repatter = re.compile(pattern)
     for v in files:
         n_match = re.search(pattern, v)
         start_idx, end_idx = n_match.span()
