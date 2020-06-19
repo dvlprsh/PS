@@ -19,6 +19,7 @@ Solved List (Programmers)
 ### Heap
 - [더 맵게 (lv2)](Programmers/코딩테스트%20고득점%20Kit/Heap/더%20맵게(lv2).py)
 - [라면공장 (lv2)](Programmers/코딩테스트%20고득점%20Kit/Heap/라면공장(lv2).py)
+- [디스크 컨트롤러 (lv3)](Programmers/코딩테스트%20고득점%20Kit/Heap/디스크%20컨트롤러(lv3).py)
 
 ### Sort
 - [K번째수 (lv1)](Programmers/코딩테스트%20고득점%20Kit/Sort/K번째수(lv1).py)
