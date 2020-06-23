@@ -50,6 +50,7 @@ Solved List (Programmers)
 - [가운데 글자 가져오기](Programmers/Lv1/가운데-글자-가져오기.py)
 - [수박수박수박수박수박수?](Programmers/Lv1/수박수박수박수박수박수.py)
 - [소수 찾기](Programmers/Lv1/소수-찾기.py)
+- [예산](Programmers/Lv1/예산.py)
 ### Lv.2
 - [튜플](Programmers/Lv2/튜플.py)
 - [프렌즈4블록](Programmers/Lv2/프렌즈4블록.py)
@@ -60,10 +61,11 @@ Solved List (Programmers)
 - [파일명 정렬](Programmers/Lv2/파일명%20정렬.py)
 - [n진수 게임](Programmers/Lv2/n진수%20게임.py)
 - [압축](Programmers/Lv2/압축.py)
-- [영어 끝말잇기.py](Programmers/Lv2/영어%20끝말잇기.py)
-- [예산.py](Programmers/Lv2/예산.py)
+- [영어 끝말잇기](Programmers/Lv2/영어%20끝말잇기.py)
+
 ### Lv.3
 - [셔틀버스](Programmers/Lv3/셔틀버스.py)
+- [숫자 게임](Programmers/Lv3/숫자%20게임.py)
 ### Lv.4
 - [자동완성](Programmers/Lv4/자동완성.py)
 - [쿠키 구입](Programmers/Lv4/쿠키%20구입.py)
