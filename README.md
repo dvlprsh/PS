@@ -52,16 +52,20 @@ Solved List (Programmers)
 - [소수 찾기](Programmers/Lv1/소수-찾기.py)
 - [예산](Programmers/Lv1/예산.py)
 ### Lv.2
-- [튜플](Programmers/Lv2/튜플.py)
-- [프렌즈4블록](Programmers/Lv2/프렌즈4블록.py)
-- [캐시](Programmers/Lv2/캐시.py)
-- [방금그곡](Programmers/Lv2/방금그곡.py)
-- [다트 게임](Programmers/Lv2/다트%20게임.py)
-- [비밀지도](Programmers/Lv2/비밀지도.py)
-- [파일명 정렬](Programmers/Lv2/파일명%20정렬.py)
-- [n진수 게임](Programmers/Lv2/n진수%20게임.py)
-- [압축](Programmers/Lv2/압축.py)
-- [영어 끝말잇기](Programmers/Lv2/영어%20끝말잇기.py)
+| 문제 | python | javascript |
+| --- | :---: | --- |
+| 튜플 | [link](Programmers/Lv2/튜플.py) |  |
+| 프렌즈4블록 | [link](Programmers/Lv2/프렌즈4블록.py) |  |
+| 캐시 | [link](Programmers/Lv2/캐시.py) |  |
+| 방금그곡 | [link](Programmers/Lv2/방금그곡.py) |  |
+| 다트 게임 | [link](Programmers/Lv2/다트%20게임.py) |  |
+| 비밀지도 | [link](Programmers/Lv2/비밀지도.py) |  |
+| 파일명 정렬 | [link](Programmers/Lv2/파일명%20정렬.py) |  |
+| n진수 게임 | [link](Programmers/Lv2/n진수%20게임.py) |  |
+| 압축 | [link](Programmers/Lv2/압축.py) |  |
+| 영어 끝말잇기 | [link](Programmers/Lv2/영어%20끝말잇기.py) |  |
+| 소수 만들기 | [link](Programmers/Lv2/소수%20만들기.py) |  |
+| 점프와 순간 이동 | [link](Programmers/Lv2/점프와%20순간%20이동.py) |  |
 
 ### Lv.3
 - [셔틀버스](Programmers/Lv3/셔틀버스.py)
