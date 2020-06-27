@@ -66,7 +66,8 @@ Solved List (Programmers)
 | 영어 끝말잇기 | [link](Programmers/Lv2/영어%20끝말잇기.py) |  |
 | 소수 만들기 | [link](Programmers/Lv2/소수%20만들기.py) |  |
 | 점프와 순간 이동 | [link](Programmers/Lv2/점프와%20순간%20이동.py) |  |
-
+| 포켓몬 | [link](Programmers/Lv2/포켓몬.py) |  |
+| 짝지어 제거하기 | [link](Programmers/Lv2/짝지어%20제거하기.py) |  |
 ### Lv.3
 - [셔틀버스](Programmers/Lv3/셔틀버스.py)
 - [숫자 게임](Programmers/Lv3/숫자%20게임.py)
