@@ -69,8 +69,11 @@ Solved List (Programmers)
 | 포켓몬 | [link](Programmers/Lv2/포켓몬.py) |  |
 | 짝지어 제거하기 | [link](Programmers/Lv2/짝지어%20제거하기.py) |  |
 ### Lv.3
-- [셔틀버스](Programmers/Lv3/셔틀버스.py)
-- [숫자 게임](Programmers/Lv3/숫자%20게임.py)
+| 문제 | python | javascript |
+| --- | :---: | --- |
+| 셔틀버스 | [link](Programmers/Lv3/셔틀버스.py) |  |
+| 숫자 게임 | [link](Programmers/Lv3/숫자%20게임.py) |  |
+| 기지국 설치 | [link](Programmers/Lv3/기지국%20설치.py) |  |
 ### Lv.4
 - [자동완성](Programmers/Lv4/자동완성.py)
 - [쿠키 구입](Programmers/Lv4/쿠키%20구입.py)
