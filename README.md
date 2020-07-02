@@ -68,6 +68,7 @@ Solved List (Programmers)
 | 점프와 순간 이동 | [link](Programmers/Lv2/점프와%20순간%20이동.py) |  |
 | 포켓몬 | [link](Programmers/Lv2/포켓몬.py) |  |
 | 짝지어 제거하기 | [link](Programmers/Lv2/짝지어%20제거하기.py) |  |
+| 문자열 압축 | [link](Programmers/Lv2/문자열%20압축.py) |  |
 ### Lv.3
 | 문제 | python | javascript |
 | --- | :---: | --- |
