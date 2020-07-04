@@ -1,3 +1,4 @@
+//2020.05--------------------------------------
 function get_total(budgets, high){
     var total=0;
     for (var budget of budgets){
