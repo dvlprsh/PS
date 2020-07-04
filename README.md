@@ -43,8 +43,10 @@ Solved List (Programmers)
 - [단어 변환 (lv3)](Programmers/코딩테스트%20고득점%20Kit/DFS-BFS/단어%20변환(lv3).py)
 
 ### Binary Search
-- [예산 (lv3)](Programmers/코딩테스트%20고득점%20Kit/BinarySearch/예산(이진탐색%20lv3).js)
-
+|  | 문제 | python | javascript |
+| --- | :---: | :---: | :---: |
+| lv3 | 예산 | [link](Programmers/코딩테스트%20고득점%20Kit/BinarySearch/예산.py) | [link](Programmers/코딩테스트%20고득점%20Kit/BinarySearch/예산.js) |
+| lv3 | 입국심사 |  | [link](Programmers/코딩테스트%20고득점%20Kit/BinarySearch/입국심사.js) |
 ## 모든 문제
 ### Lv.1
 - [가운데 글자 가져오기](Programmers/Lv1/가운데-글자-가져오기.py)
