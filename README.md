@@ -57,7 +57,7 @@ Solved List (Programmers)
 - [예산](Programmers/Lv1/예산.py)
 ### Lv.2
 | 문제 | python | javascript |
-| --- | :---: | --- |
+| --- | :---: | :---: |
 | 튜플 | [link](Programmers/Lv2/튜플.py) |  |
 | 프렌즈4블록 | [link](Programmers/Lv2/프렌즈4블록.py) |  |
 | 캐시 | [link](Programmers/Lv2/캐시.py) |  |
@@ -70,13 +70,13 @@ Solved List (Programmers)
 | 영어 끝말잇기 | [link](Programmers/Lv2/영어%20끝말잇기.py) |  |
 | 소수 만들기 | [link](Programmers/Lv2/소수%20만들기.py) |  |
 | 점프와 순간 이동 | [link](Programmers/Lv2/점프와%20순간%20이동.py) |  |
-| 포켓몬 | [link](Programmers/Lv2/포켓몬.py) |  |
-| 짝지어 제거하기 | [link](Programmers/Lv2/짝지어%20제거하기.py) |  |
+| 포켓몬 | [link](Programmers/Lv2/포켓몬.py) | [link](Programmers/Lv2/포켓몬.js) |
+| 짝지어 제거하기 | [link](Programmers/Lv2/짝지어%20제거하기.py) | [link](Programmers/Lv2/짝지어%20제거하기.js) |
 | 문자열 압축 | [link](Programmers/Lv2/문자열%20압축.py) |  |
 | 예상 대진표 |  | [link](Programmers/Lv2/예상%20대진표.js) |
 ### Lv.3
 | 문제 | python | javascript |
-| --- | :---: | --- |
+| --- | :---: | :---: |
 | 셔틀버스 | [link](Programmers/Lv3/셔틀버스.py) |  |
 | 숫자 게임 | [link](Programmers/Lv3/숫자%20게임.py) |  |
 | 기지국 설치 | [link](Programmers/Lv3/기지국%20설치.py) |  |
