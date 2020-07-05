@@ -73,6 +73,7 @@ Solved List (Programmers)
 | 포켓몬 | [link](Programmers/Lv2/포켓몬.py) |  |
 | 짝지어 제거하기 | [link](Programmers/Lv2/짝지어%20제거하기.py) |  |
 | 문자열 압축 | [link](Programmers/Lv2/문자열%20압축.py) |  |
+| 예상 대진표 |  | [link](Programmers/Lv2/예상%20대진표.js) |
 ### Lv.3
 | 문제 | python | javascript |
 | --- | :---: | --- |
