@@ -29,11 +29,6 @@ Solved List (Programmers)
 - [숫자 야구 (lv2)](Programmers/코딩테스트%20고득점%20Kit/BF/숫자%20야구(lv2).py)
 
 ### Greedy
-- [큰 수 만들기 (lv2)](Programmers/코딩테스트%20고득점%20Kit/Greedy/큰%20수%20만들기(greedy%20lv2).py)
-- [조이스틱 (lv2)](Programmers/코딩테스트%20고득점%20Kit/Greedy/조이스틱(greedy%20lv2).py)
-- [섬 연결하기 (lv3)](Programmers/코딩테스트%20고득점%20Kit/Greedy/섬%20연결하기(greedy%20lv3).py)
-- [단속카메라 (lv3)](Programmers/코딩테스트%20고득점%20Kit/Greedy/단속카메라(greedy%20lv3).py)
-
 |  | 문제 | python | javascript |
 | --- | :---: | :---: | :---: |
 | lv1 | 체육복 |  | [link](Programmers/코딩테스트%20고득점%20Kit/Greedy/체육복.js) |
