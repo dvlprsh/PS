@@ -76,6 +76,7 @@ Solved List (Programmers)
 | 짝지어 제거하기 | [link](Programmers/Lv2/짝지어%20제거하기.py) | [link](Programmers/Lv2/짝지어%20제거하기.js) |
 | 문자열 압축 | [link](Programmers/Lv2/문자열%20압축.py) |  |
 | 예상 대진표 |  | [link](Programmers/Lv2/예상%20대진표.js) |
+| JadenCase 문자열 만들기 |  | [link](Programmers/Lv2/JadenCase%20문자열%20만들기.js) |
 ### Lv.3
 | 문제 | python | javascript |
 | --- | :---: | :---: |
