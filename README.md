@@ -4,29 +4,39 @@ Solved List (Programmers)
 
 ## 코딩테스트 고득점 Kit 
 ### Hash
-- [완주하지 못한 선수 (lv1)](Programmers/코딩테스트%20고득점%20Kit/Hash/완주하지%20못한%20선수(hash%20lv1).py)
-- [완주하지 못한 선수 (lv1) [js]](Programmers/코딩테스트%20고득점%20Kit/Hash/완주하지%20못한%20선수(hash%20lv1).js)
-- [위장 (lv2)](Programmers/코딩테스트%20고득점%20Kit/Hash/위장(hash%20lv2).py)
-- [전화번호 목록 (lv2)](Programmers/코딩테스트%20고득점%20Kit/Hash/전화번호%20목록(hash%20lv2).py)
-- [베스트 앨범 (lv3)](Programmers/코딩테스트%20고득점%20Kit/Hash/베스트%20앨범(hash%20lv3).py)
+|  | 문제 | python | javascript |
+| --- | :---: | :---: | :---: |
+| lv1 | 완주하지 못한 선수 | [link](Programmers/코딩테스트%20고득점%20Kit/Hash/완주하지%20못한%20선수(hash%20lv1).py) | [link](Programmers/코딩테스트%20고득점%20Kit/Hash/완주하지%20못한%20선수(hash%20lv1).js) |
+| lv2 | 위장 | [link](Programmers/코딩테스트%20고득점%20Kit/Hash/위장(hash%20lv2).py) |  |
+| lv2 | 전화번호 목록 | [link](Programmers/코딩테스트%20고득점%20Kit/Hash/전화번호%20목록(hash%20lv2).py) |  |
+| lv3 | 베스트 앨범 | [link](Programmers/코딩테스트%20고득점%20Kit/Hash/베스트%20앨범(hash%20lv3).py) |  |
 
 ### Stack/Queue
-- [탑 (lv2) [js]](Programmers/코딩테스트%20고득점%20Kit/Stack-Queue/탑(스택-큐%20lv2).js)
-- [주식가격 (lv2)](Programmers/코딩테스트%20고득점%20Kit/Stack-Queue/주식가격(stack_queue%20lv2).py)
-- [기능개발 (lv2)](Programmers/코딩테스트%20고득점%20Kit/Stack-Queue/기능개발(stack_queue%20lv2).py)
-- [다리를 지나는 트럭 (lv2)](Programmers/코딩테스트%20고득점%20Kit/Stack-Queue/다리를%20지나는%20트럭(lv2).py)
+|  | 문제 | python | javascript |
+| --- | :---: | :---: | :---: |
+| lv2 | 탑 |  | [link](Programmers/코딩테스트%20고득점%20Kit/Stack-Queue/탑(스택-큐%20lv2).js) |
+| lv2 | 주식가격 | [link](Programmers/코딩테스트%20고득점%20Kit/Stack-Queue/주식가격(stack_queue%20lv2).py) |  |
+| lv2 | 기능개발 | [link](Programmers/코딩테스트%20고득점%20Kit/Stack-Queue/기능개발(stack_queue%20lv2).py) |  |
+| lv2 | 다리를 지나는 트럭 | [link](Programmers/코딩테스트%20고득점%20Kit/Stack-Queue/다리를%20지나는%20트럭(lv2).py) |  |
+| lv2 | 프린터 |  | [link](Programmers/코딩테스트%20고득점%20Kit/Stack-Queue/프린터.js) |
 
 ### Heap
-- [더 맵게 (lv2)](Programmers/코딩테스트%20고득점%20Kit/Heap/더%20맵게(lv2).py)
-- [라면공장 (lv2)](Programmers/코딩테스트%20고득점%20Kit/Heap/라면공장(lv2).py)
-- [디스크 컨트롤러 (lv3)](Programmers/코딩테스트%20고득점%20Kit/Heap/디스크%20컨트롤러(lv3).py)
+|  | 문제 | python | javascript |
+| --- | :---: | :---: | :---: |
+| lv2 | 더 맵게 | [link](Programmers/코딩테스트%20고득점%20Kit/Heap/더%20맵게(lv2).py) |  |
+| lv2 | 라면공장 | [link](Programmers/코딩테스트%20고득점%20Kit/Heap/라면공장(lv2).py) |  |
+| lv3 | 디스크 컨트롤러 | [link](Programmers/코딩테스트%20고득점%20Kit/Heap/디스크%20컨트롤러(lv3).py) |  |
 
 ### Sort
-- [K번째수 (lv1)](Programmers/코딩테스트%20고득점%20Kit/Sort/K번째수(lv1).py)
+|  | 문제 | python | javascript |
+| --- | :---: | :---: | :---: |
+| lv1 | K번째수 | [link](Programmers/코딩테스트%20고득점%20Kit/Sort/K번째수(lv1).py) |  |
 
 ### Brute Force
-- [카펫 (lv2)](Programmers/코딩테스트%20고득점%20Kit/BF/카펫(BF%20lv2).py)
-- [숫자 야구 (lv2)](Programmers/코딩테스트%20고득점%20Kit/BF/숫자%20야구(lv2).py)
+|  | 문제 | python | javascript |
+| --- | :---: | :---: | :---: |
+| lv2 | 카펫 | [link](Programmers/코딩테스트%20고득점%20Kit/BF/카펫(BF%20lv2).py) |  |
+| lv2 | 숫자 야구 | [link](Programmers/코딩테스트%20고득점%20Kit/BF/숫자%20야구(lv2).py) |  |
 
 ### Greedy
 |  | 문제 | python | javascript |
@@ -42,9 +52,12 @@ Solved List (Programmers)
 | lv3 | 정수 삼각형 | [link](Programmers/코딩테스트%20고득점%20Kit/DP/정수%20삼각형(lv3).py) |  |
 | lv3 | N으로 표현 | [link](Programmers/코딩테스트%20고득점%20Kit/DP/N으로%20표현(lv3).py) |  |
 | lv3 | 타일 장식물 |  | [link](Programmers/코딩테스트%20고득점%20Kit/DP/타일%20장식물.js) |
+
 ### DFS/BFS
-- [네트워크 (lv3)](Programmers/코딩테스트%20고득점%20Kit/DFS-BFS/네트워크(lv3).py)
-- [단어 변환 (lv3)](Programmers/코딩테스트%20고득점%20Kit/DFS-BFS/단어%20변환(lv3).py)
+|  | 문제 | python | javascript |
+| --- | :---: | :---: | :---: |
+| lv3 | 네트워크 | [link](Programmers/코딩테스트%20고득점%20Kit/DFS-BFS/네트워크(lv3).py) |  |
+| lv3 | 단어 변환 | [link](Programmers/코딩테스트%20고득점%20Kit/DFS-BFS/단어%20변환(lv3).py) |  |
 
 ### Binary Search
 |  | 문제 | python | javascript |
@@ -53,10 +66,13 @@ Solved List (Programmers)
 | lv3 | 입국심사 |  | [link](Programmers/코딩테스트%20고득점%20Kit/BinarySearch/입국심사.js) |
 ## 모든 문제
 ### Lv.1
-- [가운데 글자 가져오기](Programmers/Lv1/가운데-글자-가져오기.py)
-- [수박수박수박수박수박수?](Programmers/Lv1/수박수박수박수박수박수.py)
-- [소수 찾기](Programmers/Lv1/소수-찾기.py)
-- [예산](Programmers/Lv1/예산.py)
+| 문제 | python | javascript |
+| --- | :---: | :---: |
+| 가운데 글자 가져오기 | [link](Programmers/Lv1/가운데-글자-가져오기.py) |  |
+| 수박수박수박수박수박수? | [link](Programmers/Lv1/수박수박수박수박수박수.py) |  |
+| 소수 찾기 | [link](Programmers/Lv1/소수-찾기.py) |  |
+| 예산 | [link](Programmers/Lv1/예산.py) |  |
+
 ### Lv.2
 | 문제 | python | javascript |
 | --- | :---: | :---: |
@@ -87,7 +103,10 @@ Solved List (Programmers)
 | 배달 | [link](Programmers/Lv3/배달.py) |  |
 | 가장 긴 팰린드롬 | [link](Programmers/Lv3/가장%20긴%20팰린드롬.py) |  |
 | 매칭 점수 | [link](Programmers/Lv3/매칭%20점수.py) |  |
+
 ### Lv.4
-- [자동완성](Programmers/Lv4/자동완성.py)
-- [쿠키 구입](Programmers/Lv4/쿠키%20구입.py)
-- [지형 편집](Programmers/Lv4/지형%20편집.py)
+| 문제 | python | javascript |
+| --- | :---: | :---: |
+| 자동완성 | [link](Programmers/Lv4/자동완성.py) |  |
+| 쿠키 구입 | [link](Programmers/Lv4/쿠키%20구입.py) |  |
+| 지형 편집 | [link](Programmers/Lv4/지형%20편집.py) |  |
