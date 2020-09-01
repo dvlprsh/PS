@@ -94,6 +94,7 @@ Solved List (Programmers)
 | 예상 대진표 |  | [link](Programmers/Lv2/예상%20대진표.js) |
 | JadenCase 문자열 만들기 |  | [link](Programmers/Lv2/JadenCase%20문자열%20만들기.js) |
 | 괄호 변환 |  | [link](Programmers/Lv2/괄호%20변환.js) |
+| 오픈채팅방 |  | [link](Programmers/Lv2/오픈채팅방.js) |
 ### Lv.3
 | 문제 | python | javascript |
 | --- | :---: | :---: |
