@@ -9,7 +9,7 @@ Solved List (Programmers)
 | lv1 | 완주하지 못한 선수 | [link](Programmers/코딩테스트%20고득점%20Kit/Hash/완주하지%20못한%20선수(hash%20lv1).py) | [link](Programmers/코딩테스트%20고득점%20Kit/Hash/완주하지%20못한%20선수(hash%20lv1).js) |
 | lv2 | 위장 | [link](Programmers/코딩테스트%20고득점%20Kit/Hash/위장(hash%20lv2).py) |  |
 | lv2 | 전화번호 목록 | [link](Programmers/코딩테스트%20고득점%20Kit/Hash/전화번호%20목록(hash%20lv2).py) |  |
-| lv3 | 베스트 앨범 | [link](Programmers/코딩테스트%20고득점%20Kit/Hash/베스트%20앨범(hash%20lv3).py) |  |
+| lv3 | 베스트 앨범 | [link](Programmers/코딩테스트%20고득점%20Kit/Hash/베스트%20앨범(hash%20lv3).py) | [link](Programmers/코딩테스트%20고득점%20Kit/Hash/베스트%20앨범.js) |
 
 ### Stack/Queue
 |  | 문제 | python | javascript |
