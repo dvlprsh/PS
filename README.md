@@ -25,7 +25,8 @@ Solved List (Programmers)
 | --- | :---: | :---: | :---: |
 | lv2 | 더 맵게 | [link](Programmers/코딩테스트%20고득점%20Kit/Heap/더%20맵게(lv2).py) |  |
 | lv2 | 라면공장 | [link](Programmers/코딩테스트%20고득점%20Kit/Heap/라면공장(lv2).py) |  |
-| lv3 | 디스크 컨트롤러 | [link](Programmers/코딩테스트%20고득점%20Kit/Heap/디스크%20컨트롤러(lv3).py) |  |
+| lv3 | 디스크 컨트롤러 | [link](Programmers/코딩테스트%20고득점%20Kit/Heap/디스크%20컨트롤러(lv3).py) | [link](Programmers/코딩테스트%20고득점%20Kit/Heap/디스크컨트롤러.js) |
+| lv3 | 이중우선순위큐 |  | [link](Programmers/코딩테스트%20고득점%20Kit/Heap/이중우선순위큐.js) |
 
 ### Sort
 |  | 문제 | python | javascript |
