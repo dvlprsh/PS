@@ -36,7 +36,7 @@ Solved List (Programmers)
 ### Brute Force
 |  | 문제 | python | javascript |
 | --- | :---: | :---: | :---: |
-| lv2 | 카펫 | [link](Programmers/코딩테스트%20고득점%20Kit/BF/카펫(BF%20lv2).py) |  |
+| lv2 | 카펫 | [link](Programmers/코딩테스트%20고득점%20Kit/BF/카펫(BF%20lv2).py) | [link](Programmers/코딩테스트%20고득점%20Kit/BF/카펫.js) |
 | lv2 | 숫자 야구 | [link](Programmers/코딩테스트%20고득점%20Kit/BF/숫자%20야구(lv2).py) |  |
 
 ### Greedy
@@ -45,7 +45,7 @@ Solved List (Programmers)
 | lv1 | 체육복 |  | [link](Programmers/코딩테스트%20고득점%20Kit/Greedy/체육복.js) |
 | lv2 | 큰 수 만들기 | [link](Programmers/코딩테스트%20고득점%20Kit/Greedy/큰%20수%20만들기(greedy%20lv2).py) |  |
 | lv2 | 조이스틱 | [link](Programmers/코딩테스트%20고득점%20Kit/Greedy/조이스틱(greedy%20lv2).py) |  |
-| lv3 | 섬 연결하기 | [link](Programmers/코딩테스트%20고득점%20Kit/Greedy/섬%20연결하기(greedy%20lv3).py) | |
+| lv3 | 섬 연결하기 | [link](Programmers/코딩테스트%20고득점%20Kit/Greedy/섬%20연결하기(greedy%20lv3).py) | [link](Programmers/코딩테스트%20고득점%20Kit/Greedy/섬연결하기.js) |
 | lv3 | 단속카메라 | [link](Programmers/코딩테스트%20고득점%20Kit/Greedy/단속카메라(greedy%20lv3).py) | [link](Programmers/코딩테스트%20고득점%20Kit/Greedy/단속카메라.js) |
 ### Dynamic Programming
 |  | 문제 | python | javascript |
